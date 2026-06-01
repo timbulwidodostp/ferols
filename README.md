@@ -1,6 +1,8 @@
 # ferols
 A Fixed-Effects Robust M Estimator with Huber Loss Use ferols With (In) R Software
 
+https://www.youtube.com/watch?v=l8QakPmVncY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
